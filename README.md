@@ -1,4 +1,4 @@
-# Pliny
+# Pliny test
 
 Opinionated template Sinatra app for writing excellent APIs in Ruby.
 
